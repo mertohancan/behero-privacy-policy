@@ -2,7 +2,7 @@
 
 Son güncelleme: [06.04.2025]
 
-Storyworld uygulaması olarak, kullanıcılarımızın gizliliğine büyük önem veriyoruz. Bu gizlilik politikası, uygulamamız aracılığıyla hangi bilgileri topladığımızı, nasıl kullandığımızı ve koruduğumuzu açıklamaktadır.
+BeHero uygulaması olarak, kullanıcılarımızın gizliliğine büyük önem veriyoruz. Bu gizlilik politikası, uygulamamız aracılığıyla hangi bilgileri topladığımızı, nasıl kullandığımızı ve koruduğumuzu açıklamaktadır.
 
 ## Toplanan Bilgiler
 
@@ -23,7 +23,7 @@ Toplanan bilgiler şu amaçlarla kullanılabilir:
 
 ## Üçüncü Taraf Hizmetleri
 
-Storyworld aşağıdaki üçüncü taraf servisleri kullanabilir:
+BeHero aşağıdaki üçüncü taraf servisleri kullanabilir:
 
 - **RevenueCat** (abonelik yönetimi)
 - **Expo & React Native hizmetleri** (mobil uygulama altyapısı)
@@ -36,15 +36,11 @@ Kullanıcı verileri güvenli sunucularda saklanmakta olup, yetkisiz erişime ka
 
 ## Kullanıcı Hakları
 
-Kullanıcılar istedikleri zaman verilerinin silinmesini talep edebilir. Bu tür talepler için bizimle iletişime geçebilirsiniz:  
-📩 destek@storyworld.com
+Kullanıcılar istedikleri zaman verilerinin silinmesini talep edebilir. Bu tür talepler için uygulama üzerinden bizimle iletişime geçebilirsiniz:  
 
 ## Değişiklikler
 
 Gizlilik politikamız zaman zaman güncellenebilir. Güncellemeler bu sayfa üzerinden duyurulacaktır.
 
----
 
-**İletişim Bilgileri:**  
-Storyworld  
-destek@storyworld.com
+
